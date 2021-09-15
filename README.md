@@ -3,15 +3,29 @@
 [Pleaides](https://pleiades.stoa.org/) contains information about ancient places. Some visualisations are generated from the dataset itself, and others are combined with external data in hopes of showing new observations. 
 
 ## Visualisations:
-1. Earliest recorded places in prehistory time period
+1. Earliest recorded places in prehistory time period.
+
+  [prehistory_places.py](prehistory_places.py)
   ![map](/images/prehist.png)
-2. Size of human settlements vs longevity
+  
+2. Size of human settlements vs longevity. 
+
+  [area_size_persistance.py](area_size_persistance.py)
   ![map](/images/persist1.png)
-3. Wealth of port vs non-port country (as interactive multiseries line chart)
+
+3. Wealth of port vs non-port country (as interactive multiseries line chart). 
+
+  [ports_wealth.py](ports_wealth.py)
   ![map](/images/port2.png)
-4. Progression of places of worship over time
+
+4. Progression of places of worship over time. 
+
+  [places_of_worship_time.py](places_of_worship_time.py)
   ![map](/images/worship2.jpg)
-5. Number of connecting infrastructure in an area vs variance of languages spoken
+
+5. Number of connecting infrastructure in an area vs variance of languages spoken. 
+
+  [lang.py](lang.py)
   ![map](/images/lang.png)
 
 
